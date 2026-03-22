@@ -1,0 +1,12 @@
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/bin/Debug/net10.0/MaquinaCafe.deps.json
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/bin/Debug/net10.0/MaquinaCafe.dll
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/bin/Debug/net10.0/MaquinaCafe.pdb
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.AssemblyInfoInputs.cache
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.AssemblyInfo.cs
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.csproj.CoreCompileInputs.cache
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.sourcelink.json
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.dll
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/refint/MaquinaCafe.dll
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/MaquinaCafe.pdb
+/workspaces/tdd-maquina-cafe-ci-cd/MaquinaCafe/obj/Debug/net10.0/ref/MaquinaCafe.dll
