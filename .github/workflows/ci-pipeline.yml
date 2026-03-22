@@ -7,16 +7,23 @@ on:
     branches: [ main, develop ]
 
 jobs:
-  build:
+  build-and-test:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-dotnet@v3
+      - name: Instalar .NET
+        uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
 
-      - run: dotnet restore
-      - run: dotnet build --no-restore
-      - run: dotnet test --no-build
+      - name: Restaurar dependencias
+        run: dotnet restore
+
+      - name: Compilar proyecto
+        run: dotnet build --no-restore
+
+      - name: Ejecutar pruebas
+        run: dotnet test --no-build --verbosity normal
